@@ -26,7 +26,7 @@
    <img align="center" alt="HTML5" width="3.5%" src="https://img.icons8.com/color/48/000000/html-5.png" />
    <img align="center" alt="CSS3" width="3.5%" src="https://img.icons8.com/color/48/000000/css3.png" />
    <img align="center" alt="JavaScript" width="3.5%" src="https://icons8.com/icon/108784/javascript" />
-   <img align="center" alt="React" width="3.5%" src="https://icons8.com/icon/NfbyHexzVEDk/react" />
+   <img align="center" alt="React" width="3.5%" src="https://icons8.com/icon/Nlsua06Gvxel/react" />
    <img align="center" alt="MongoDB" width="3.5%" src="https://img.icons8.com/color/48/000000/mongodb.png" />
    <img align="center" alt="SQL" width="3.5%" src="https://img.icons8.com/color/48/000000/sql.png" />
    <img align="center" alt="GIT" width="3.5%" src="https://img.icons8.com/color/48/000000/compare-git.png" />
