@@ -25,12 +25,12 @@
    <img align="center" alt="Visual Studio Code" width="3.5%" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
    <img align="center" alt="HTML5" width="3.5%" src="https://img.icons8.com/color/48/000000/html-5.png" />
    <img align="center" alt="CSS3" width="3.5%" src="https://img.icons8.com/color/48/000000/css3.png" />
-   <img align="center" alt="JavaScript" width="3.5%" src="https://user-images.githubusercontent.com/43099410/215181962-88825be1-d34b-4956-9cdd-e23fcb7c579d.png" />
+   <img align="center" alt="JavaScript" width="3.5%" src="https://user-images.githubusercontent.com/43099410/215182347-afdb965e-4342-4bd0-ad4c-5ed78d8bd8b6.png" />
    <img align="center" alt="React" width="3.5%" src="https://user-images.githubusercontent.com/43099410/215181688-c5c2845f-f9f3-4e70-a13b-13c9e817f6fe.png" />
    <img align="center" alt="MongoDB" width="3.5%" src="https://img.icons8.com/color/48/000000/mongodb.png" />
    <img align="center" alt="SQL" width="3.5%" src="https://img.icons8.com/color/48/000000/sql.png" />
    <img align="center" alt="GIT" width="3.5%" src="https://img.icons8.com/color/48/000000/compare-git.png" />
-   <img align="center" alt="GITHUB" width="3.5%" src="https://user-images.githubusercontent.com/43099410/215182053-b20ec382-ad72-47f3-bc4c-f3f9ee9d5f51.png" />   
+   <img align="center" alt="GITHUB" width="3.5%" src="https://user-images.githubusercontent.com/43099410/215182222-dd4b7420-4c88-482b-b20c-23bc9175ad1a.png" />   
 
 
 </div>
