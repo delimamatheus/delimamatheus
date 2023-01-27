@@ -1,7 +1,7 @@
 <div align="center">
    <h1> Matheus de Lima </h1>
    <h3> Junior Full Stack Developer </h3>
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=delimamatheus.delimamatheus)
+   <img src="https://visitor-badge.glitch.me/badge?page_id=delimamatheus.delimamatheus" alt="visitors" />
 </div>
 
 <div align="left">
