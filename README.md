@@ -8,7 +8,7 @@
 
 <div align="left">
    
-   <h3>What am I doing in 2023</h3>
+   <h3>What I'm doing in 2023</h3>
    <ul>
       <li>I'm currently working with React, NodeJS and PHP</li>
       <li>I’m currently learning about Front End and Game Development</li>
@@ -25,13 +25,16 @@
    <img align="left" alt="Visual Studio Code" width="3.5%" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
    <img align="left" alt="HTML5" width="3.5%" src="https://img.icons8.com/color/48/000000/html-5.png" />
    <img align="left" alt="CSS3" width="3.5%" src="https://img.icons8.com/color/48/000000/css3.png" />
-   <img align="left" alt="JavaScript" width="3.5%" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" />
+   <img align="left" alt="JavaScript" width="3.5%" src="https://icons8.com/icon/108784/javascript" />
+   <img align="left" alt="JavaScript" width="3.5%" src="https://icons8.com/icon/NfbyHexzVEDk/react" />   
    <img align="left" alt="MongoDB" width="3.5%" src="https://img.icons8.com/color/48/000000/mongodb.png" />
    <img align="left" alt="SQL" width="3.5%" src="https://img.icons8.com/color/48/000000/sql.png" />
    <img align="left" alt="GIT" width="3.5%" src="https://img.icons8.com/color/48/000000/compare-git.png" />
    <img align="left" alt="GITHUB" width="3.5%" src="https://img.icons8.com/ios-filled/50/000000/github-2.png" />   
    
 </div>
+
+<br> <br>
 
 <div align="center">
    
