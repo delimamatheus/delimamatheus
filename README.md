@@ -18,7 +18,7 @@
 
 <br>
 
-<div align="left">
+<div align="center">
 
    <h3>Technologies that I have knowledge</h3>
    <!-- Icons -->
@@ -26,7 +26,7 @@
    <img align="left" alt="HTML5" width="3.5%" src="https://img.icons8.com/color/48/000000/html-5.png" />
    <img align="left" alt="CSS3" width="3.5%" src="https://img.icons8.com/color/48/000000/css3.png" />
    <img align="left" alt="JavaScript" width="3.5%" src="https://icons8.com/icon/108784/javascript" />
-   <img align="left" alt="JavaScript" width="3.5%" src="https://icons8.com/icon/NfbyHexzVEDk/react" />   
+   <img align="left" alt="React" width="3.5%" src="https://icons8.com/icon/NfbyHexzVEDk/react" />
    <img align="left" alt="MongoDB" width="3.5%" src="https://img.icons8.com/color/48/000000/mongodb.png" />
    <img align="left" alt="SQL" width="3.5%" src="https://img.icons8.com/color/48/000000/sql.png" />
    <img align="left" alt="GIT" width="3.5%" src="https://img.icons8.com/color/48/000000/compare-git.png" />
