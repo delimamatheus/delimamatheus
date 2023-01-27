@@ -3,8 +3,9 @@
 
 <div align="center">
    
-<img  height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=delimamatheus&theme=darcula" alt="delimamatheus" /> <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=delimamatheus&show_icons=true&theme=dark&locale=en" alt="r4f4siqueira" /> <img
-            src="https://github-profile-trophy.vercel.app/?username=delimamatheus&no-frame=true&margin-w=5&margin-h=5&column=7&theme=algolia&no-bg=true" alt="r4f4siqueira"/>
+<img  height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=delimamatheus&theme=darcula" alt="delimamatheus" />
+<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=delimamatheus&show_icons=true&theme=dracula&locale=en" alt="delimamatheus" />
+<img src="https://github-profile-trophy.vercel.app/?username=delimamatheus&no-frame=true&margin-w=5&margin-h=5&column=7&theme=algolia&no-bg=true" alt="delimamatheus"/>
 </div>
 
 
