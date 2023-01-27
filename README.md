@@ -4,7 +4,8 @@
 <div align="center">
    
 <img  height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=delimamatheus&theme=darcula" alt="delimamatheus" />
-<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=delimamatheus&show_icons=true&theme=dracula&locale=en" alt="delimamatheus" />
+<img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=delimamatheus&show_icons=true&theme=darcula&locale=en" alt="delimamatheus" />
+<br> <br>
 <img src="https://github-profile-trophy.vercel.app/?username=delimamatheus&no-frame=true&margin-w=5&margin-h=5&column=7&theme=algolia&no-bg=true" alt="delimamatheus"/>
 </div>
 
