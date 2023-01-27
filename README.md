@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+<div align="center">
+    
+<img  height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=r4f4siqueira&theme=dark&" alt="r4f4siqueira" /> <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=r4f4siqueira&show_icons=true&theme=dark&locale=en" alt="r4f4siqueira" /> <img
+            src="https://github-profile-trophy.vercel.app/?username=delimamatheus&no-frame=true&margin-w=5&margin-h=5&column=7&theme=algolia&no-bg=true" alt="r4f4siqueira"/>
+</div>
+
+
 <!--
 **delimamatheus/delimamatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
