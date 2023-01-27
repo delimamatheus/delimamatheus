@@ -6,11 +6,10 @@
 
 <div align="left">
    
-   <p>
-      I'm currently working with React, NodeJS and PHP
-      <br>
-      I’m currently learning about Front End and Game Development
-   </p>
+   <ul>
+      <li>I'm currently working with React, NodeJS and PHP</li>
+      <li>I’m currently learning about Front End and Game Development</li>
+   </ul>
    
 </div>
 
