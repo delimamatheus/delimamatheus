@@ -12,8 +12,6 @@
       <li>I'm currently working with React, NodeJS and PHP</li>
       <li>I’m currently learning about Front End and Game Development</li>
    </ul>
-   [<img align="left" alt="Matheus de Lima | LinkedIn" width="3.5%" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />](https://www.linkedin.com/in/mthslm/)
-   [<img align="left" alt="Matheus de Lima | Instagram" width="3.5%" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />](https://www.instagram.com/therealmaneiro/)
    
 </div>
 
