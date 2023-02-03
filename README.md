@@ -27,7 +27,6 @@
    <img align="center" alt="CSS3" width="3.5%" src="https://img.icons8.com/color/48/000000/css3.png" />
    <img align="center" alt="JavaScript" width="3.5%" src="https://user-images.githubusercontent.com/43099410/215182347-afdb965e-4342-4bd0-ad4c-5ed78d8bd8b6.png" />
    <img align="center" alt="React" width="3.5%" src="https://user-images.githubusercontent.com/43099410/215181688-c5c2845f-f9f3-4e70-a13b-13c9e817f6fe.png" />
-   <img align="center" alt="MongoDB" width="3.5%" src="https://img.icons8.com/color/48/000000/mongodb.png" />
    <img align="center" alt="SQL" width="3.5%" src="https://img.icons8.com/color/48/000000/sql.png" />
    <img align="center" alt="GIT" width="3.5%" src="https://img.icons8.com/color/48/000000/compare-git.png" />
    <img align="center" alt="GITHUB" width="3.5%" src="https://user-images.githubusercontent.com/43099410/215182222-dd4b7420-4c88-482b-b20c-23bc9175ad1a.png" />   
