@@ -46,7 +46,7 @@
 
 <br>
 
-<div align="left">
+<div align="center">
    <h3>Contact me</h3>
    <a href="https://linkedin.com/in/mthslm"><img width="3.5%" src="https://user-images.githubusercontent.com/43099410/216975053-16f15369-df32-4e20-a021-db6ee73d4410.png" alt="Linkedin Matheus de Lima"></a>
    <a href="mailto:matheuscontato.delima@gmail.com"><img width="3.5%" src="https://user-images.githubusercontent.com/43099410/216975267-2c21f3c7-57d8-4764-9d35-e3ae45f53182.png" alt="Gmail Matheus de Lima"></a>
