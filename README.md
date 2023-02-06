@@ -1,7 +1,6 @@
 <div align="center">
    <h1> Matheus de Lima </h1>
    <h3> Junior Full Stack Developer </h3>
-   <img src="https://visitor-badge.glitch.me/badge?page_id=delimamatheus.delimamatheus" alt="visitors" />
 </div>
 
 <br>
@@ -42,6 +41,16 @@
    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=delimamatheus&show_icons=true&theme=darcula&locale=en" alt="delimamatheus" />
    <br> <br>
    <img src="https://github-profile-trophy.vercel.app/?username=delimamatheus&no-frame=true&margin-w=5&margin-h=5&column=7&theme=algolia&no-bg=true" alt="delimamatheus"/>
+
+</div>
+
+<br>
+
+<div align="left">
+   <h3>Contact me</h3>
+   <a href="https://linkedin.com/in/mthslm"><img src="https://user-images.githubusercontent.com/43099410/216975053-16f15369-df32-4e20-a021-db6ee73d4410.png" alt="Linkedin Matheus de Lima"></a>
+   <a href="mailto:matheuscontato.delima@gmail.com"><img src="https://user-images.githubusercontent.com/43099410/216975267-2c21f3c7-57d8-4764-9d35-e3ae45f53182.png" alt="Gmail Matheus de Lima"></a>
+
 
 </div>
    
